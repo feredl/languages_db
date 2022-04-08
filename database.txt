@@ -1,0 +1,27 @@
+	<Language>
+name: no name
+speakers amount: 0
+writing type: writing type not chosen
+	</Language>
+	<Language>
+name: no name
+speakers amount: 0
+writing type: writing type not chosen
+spread: spread is not known
+alphabet: alphabet not chosen
+	</Language>
+
+	<Language>
+name: ukrainian
+speakers amount: 45000000
+writing type: phonetic
+spread: eastern
+alphabet: cyrillic
+	</Language>
+
+	<Language>
+name: arabic
+speakers amount: 0
+writing type: syllabic
+	</Language>
+
